@@ -1,0 +1,19 @@
+html {
+  font-size: 14px;
+  list-style:none;
+}
+
+@media (min-width: 768px) {
+  a, html {
+    font-size: 16px;
+  }
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  margin-bottom: 60px;
+}
