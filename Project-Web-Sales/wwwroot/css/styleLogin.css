@@ -310,11 +310,11 @@ figure {
 .register-form {
   width: 100%; }
 
-.form-group {
+.form-group-login {
   position: relative;
   margin-bottom: 25px;
   overflow: hidden; }
-  .form-group:last-child {
+  .form-group-login:last-child {
     margin-bottom: 0px; }
 
 input {
