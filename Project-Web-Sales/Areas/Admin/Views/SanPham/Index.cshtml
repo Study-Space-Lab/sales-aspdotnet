@@ -1,0 +1,49 @@
+﻿@{
+    ViewData["Title"] = "Index";
+}
+@model IEnumerable<SanPham>
+    <div class="container">
+        <table class="table">
+            <thead>
+                <tr>
+                    <th>Name</th>
+                    <th>Description</th>
+                    <th>Price</th>
+                    @*<th>TheLoai</th>*@
+                    <th>Function</th>
+
+                </tr>
+            </thead>
+        @foreach (var item in @Model)
+        {
+                    <tbody>
+                        <tr>
+                            <td>@item.Name</td>
+                            <td>@item.Description</td>
+                            <td>@item.Price</td>
+                            @*<td>@item.TheLoai.Name</td>*@
+                            <td width="20%">
+                                <a class="btn btn-primary" asp-action="Upsert" asp-route-id="@item.Id">Edit</a>
+                                <a class="btn btn-danger" onclick="xoa(@item.Id, $(this))">Delete</a>
+                            </td>
+                        </tr>
+                    </tbody>
+        }
+        </table>
+        <a asp-action="Upsert" asp-controler="SanPham" class="btn btn-primary">Thêm mới</a>
+    </div>
+
+    <script>
+        const xoa = (id,row) =>{
+            $.ajax ({
+                url:`SanPham/Delete/${id}`,
+                type: "POST",
+                //success: function(data){
+                //    row.closest("tr").remove();
+                //}
+            })
+            .done(function (data){
+                row.cloeset("tr").remove();
+            })
+        }
+    </script>

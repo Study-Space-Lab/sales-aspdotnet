@@ -16,7 +16,6 @@ P:\Phap_C#\Project-Web-Sales\Project-Web-Sales\bin\Debug\net6.0\Microsoft.AspNet
 P:\Phap_C#\Project-Web-Sales\Project-Web-Sales\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.UI.dll
 P:\Phap_C#\Project-Web-Sales\Project-Web-Sales\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
 P:\Phap_C#\Project-Web-Sales\Project-Web-Sales\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
-P:\Phap_C#\Project-Web-Sales\Project-Web-Sales\bin\Debug\net6.0\Microsoft.Build.Locator.dll
 P:\Phap_C#\Project-Web-Sales\Project-Web-Sales\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
 P:\Phap_C#\Project-Web-Sales\Project-Web-Sales\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
 P:\Phap_C#\Project-Web-Sales\Project-Web-Sales\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
@@ -559,3 +558,6 @@ P:\Phap_C#\Project-Web-Sales\Project-Web-Sales\bin\Debug\net6.0\refs\WindowsBase
 P:\Phap_C#\Project-Web-Sales\Project-Web-Sales\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
 P:\Phap_C#\Project-Web-Sales\Project-Web-Sales\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll
 P:\Phap_C#\Project-Web-Sales\Project-Web-Sales\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+P:\Phap_C#\Project-Web-Sales\Project-Web-Sales\bin\Debug\net6.0\Microsoft.Build.dll
+P:\Phap_C#\Project-Web-Sales\Project-Web-Sales\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+P:\Phap_C#\Project-Web-Sales\Project-Web-Sales\bin\Debug\net6.0\Microsoft.NET.StringTools.dll

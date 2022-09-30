@@ -1,5 +1,6 @@
 ﻿using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
+using Project_Web_Sales.Models;
 
 namespace Project_Web_Sales.Data
 {
@@ -9,5 +10,7 @@ namespace Project_Web_Sales.Data
             : base(options)
         {
         }
+        public DbSet<TheLoai> TheLoai { get; set; }
+        public DbSet<SanPham> SanPham { get; set; }
     }
 }

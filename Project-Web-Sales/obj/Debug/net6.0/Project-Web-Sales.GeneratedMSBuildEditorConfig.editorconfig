@@ -15,6 +15,74 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes = true
 build_property.MSBuildProjectDirectory = P:\Phap_C#\Project-Web-Sales\Project-Web-Sales
 build_property._RazorSourceGeneratorDebug = 
 
+[P:/Phap_C\#/Project-Web-Sales/Project-Web-Sales/Areas/Admin/Views/SanPham/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2FuUGhhbVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[P:/Phap_C\#/Project-Web-Sales/Project-Web-Sales/Areas/Admin/Views/SanPham/Upsert.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2FuUGhhbVxVcHNlcnQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[P:/Phap_C\#/Project-Web-Sales/Project-Web-Sales/Areas/Admin/Views/TheLoai/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcVGhlTG9haVxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[P:/Phap_C\#/Project-Web-Sales/Project-Web-Sales/Areas/Admin/Views/TheLoai/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcVGhlTG9haVxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[P:/Phap_C\#/Project-Web-Sales/Project-Web-Sales/Areas/Admin/Views/TheLoai/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcVGhlTG9haVxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[P:/Phap_C\#/Project-Web-Sales/Project-Web-Sales/Areas/Admin/Views/TheLoai/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcVGhlTG9haVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[P:/Phap_C\#/Project-Web-Sales/Project-Web-Sales/Areas/Admin/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[P:/Phap_C\#/Project-Web-Sales/Project-Web-Sales/Areas/Admin/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[P:/Phap_C\#/Project-Web-Sales/Project-Web-Sales/Areas/Customer/Views/Home/Cart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQ3VzdG9tZXJcVmlld3NcSG9tZVxDYXJ0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[P:/Phap_C\#/Project-Web-Sales/Project-Web-Sales/Areas/Customer/Views/Home/Checkout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQ3VzdG9tZXJcVmlld3NcSG9tZVxDaGVja291dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[P:/Phap_C\#/Project-Web-Sales/Project-Web-Sales/Areas/Customer/Views/Home/Contact.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQ3VzdG9tZXJcVmlld3NcSG9tZVxDb250YWN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[P:/Phap_C\#/Project-Web-Sales/Project-Web-Sales/Areas/Customer/Views/Home/Detail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQ3VzdG9tZXJcVmlld3NcSG9tZVxEZXRhaWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[P:/Phap_C\#/Project-Web-Sales/Project-Web-Sales/Areas/Customer/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQ3VzdG9tZXJcVmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[P:/Phap_C\#/Project-Web-Sales/Project-Web-Sales/Areas/Customer/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQ3VzdG9tZXJcVmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[P:/Phap_C\#/Project-Web-Sales/Project-Web-Sales/Areas/Customer/Views/Home/Shop.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQ3VzdG9tZXJcVmlld3NcSG9tZVxTaG9wLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[P:/Phap_C\#/Project-Web-Sales/Project-Web-Sales/Areas/Customer/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQ3VzdG9tZXJcVmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[P:/Phap_C\#/Project-Web-Sales/Project-Web-Sales/Areas/Customer/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQ3VzdG9tZXJcVmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [P:/Phap_C\#/Project-Web-Sales/Project-Web-Sales/Areas/Identity/Pages/Account/AccessDenied.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxBY2Nlc3NEZW5pZWQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
@@ -173,34 +241,6 @@ build_metadata.AdditionalFiles.CssScope =
 
 [P:/Phap_C\#/Project-Web-Sales/Project-Web-Sales/Areas/Identity/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[P:/Phap_C\#/Project-Web-Sales/Project-Web-Sales/Views/Home/Cart.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDYXJ0LmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[P:/Phap_C\#/Project-Web-Sales/Project-Web-Sales/Views/Home/Checkout.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDaGVja291dC5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[P:/Phap_C\#/Project-Web-Sales/Project-Web-Sales/Views/Home/Contact.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDb250YWN0LmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[P:/Phap_C\#/Project-Web-Sales/Project-Web-Sales/Views/Home/Detail.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxEZXRhaWwuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[P:/Phap_C\#/Project-Web-Sales/Project-Web-Sales/Views/Home/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[P:/Phap_C\#/Project-Web-Sales/Project-Web-Sales/Views/Home/Privacy.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[P:/Phap_C\#/Project-Web-Sales/Project-Web-Sales/Views/Home/Shop.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxTaG9wLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [P:/Phap_C\#/Project-Web-Sales/Project-Web-Sales/Views/Shared/Error.cshtml]
