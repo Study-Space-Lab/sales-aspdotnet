@@ -33,7 +33,7 @@ namespace Project_Web_Sales.Areas.Admin.Controllers
             ViewBag.DSTheLoai = dstheloai;
             if (id == 0) 
             { 
-                return View(); 
+                return View(sanpham); 
             } // create / Insert
             else//Edit / update
             {

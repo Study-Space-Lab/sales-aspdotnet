@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "KNZYXLAEKg4jY0CWMKZwx3kNVunINJSvX8Y8sAfOcq4=",
+  "Hash": "/288NaBqQ/t9NHQRjHE4b/nG1QkOrfUvPY1+0BmG6Ok=",
   "Source": "Project-Web-Sales",
   "BasePath": "_content/Project-Web-Sales",
   "Mode": "Default",
@@ -4469,6 +4469,40 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\mail\\jqBootstrapValidation.min.js"
+    },
+    {
+      "Identity": "P:\\Phap_C#\\Project-Web-Sales\\Project-Web-Sales\\wwwroot\\notification\\ikr.notification.css",
+      "SourceId": "Project-Web-Sales",
+      "SourceType": "Discovered",
+      "ContentRoot": "P:\\Phap_C#\\Project-Web-Sales\\Project-Web-Sales\\wwwroot\\",
+      "BasePath": "_content/Project-Web-Sales",
+      "RelativePath": "notification/ikr.notification.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\notification\\ikr.notification.css"
+    },
+    {
+      "Identity": "P:\\Phap_C#\\Project-Web-Sales\\Project-Web-Sales\\wwwroot\\notification\\ikr.notificationPlugin.js",
+      "SourceId": "Project-Web-Sales",
+      "SourceType": "Discovered",
+      "ContentRoot": "P:\\Phap_C#\\Project-Web-Sales\\Project-Web-Sales\\wwwroot\\",
+      "BasePath": "_content/Project-Web-Sales",
+      "RelativePath": "notification/ikr.notificationPlugin.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\notification\\ikr.notificationPlugin.js"
     },
     {
       "Identity": "P:\\Phap_C#\\Project-Web-Sales\\Project-Web-Sales\\wwwroot\\picture\\favicon.ico",

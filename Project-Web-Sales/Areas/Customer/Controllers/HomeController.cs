@@ -20,7 +20,7 @@ namespace Project_Web_Sales.Areas.Customer.Controllers
         public IActionResult Index()
         {
             IEnumerable<SanPham> sanpham = _db.SanPham.Include(sp => sp.TheLoai).ToList();
-            return View();
+            return View(sanpham);
         }
         public IActionResult Shop()
         {
