@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "gOL7ohBR0OiBMpnof/k8zv4QH6LjYyhueJT4XXad8UTLErCmt6IKmVfcM3r1KCbxDSy4nzb3mmZF1SIcYBIWOQ==",
+  "dgSpecHash": "w0c8Xct0Gc4GLBo1ISVGlOiYYQWtOqC5KeHInxR9bioobp0WL4eYkW5JkbccHH0WzKRWkWBnYAfxE1WjFJWBeA==",
   "success": true,
-  "projectFilePath": "P:\\Phap_C#\\Project-Web-Sales\\Project-Web-Sales\\Project-Web-Sales.csproj",
+  "projectFilePath": "C:\\Users\\luong\\OneDrive - tican1502\\project\\w\\asp-website-sales\\Project-Web-Sales\\Project-Web-Sales.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\luong\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\luong\\.nuget\\packages\\messagepack\\2.1.152\\messagepack.2.1.152.nupkg.sha512",

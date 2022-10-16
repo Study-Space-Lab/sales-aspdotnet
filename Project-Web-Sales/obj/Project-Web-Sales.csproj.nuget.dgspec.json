@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "P:\\Phap_C#\\Project-Web-Sales\\Project-Web-Sales\\Project-Web-Sales.csproj": {}
+    "C:\\Users\\luong\\OneDrive - tican1502\\project\\w\\asp-website-sales\\Project-Web-Sales\\Project-Web-Sales.csproj": {}
   },
   "projects": {
-    "P:\\Phap_C#\\Project-Web-Sales\\Project-Web-Sales\\Project-Web-Sales.csproj": {
+    "C:\\Users\\luong\\OneDrive - tican1502\\project\\w\\asp-website-sales\\Project-Web-Sales\\Project-Web-Sales.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "P:\\Phap_C#\\Project-Web-Sales\\Project-Web-Sales\\Project-Web-Sales.csproj",
+        "projectUniqueName": "C:\\Users\\luong\\OneDrive - tican1502\\project\\w\\asp-website-sales\\Project-Web-Sales\\Project-Web-Sales.csproj",
         "projectName": "Project-Web-Sales",
-        "projectPath": "P:\\Phap_C#\\Project-Web-Sales\\Project-Web-Sales\\Project-Web-Sales.csproj",
+        "projectPath": "C:\\Users\\luong\\OneDrive - tican1502\\project\\w\\asp-website-sales\\Project-Web-Sales\\Project-Web-Sales.csproj",
         "packagesPath": "C:\\Users\\luong\\.nuget\\packages\\",
-        "outputPath": "P:\\Phap_C#\\Project-Web-Sales\\Project-Web-Sales\\obj\\",
+        "outputPath": "C:\\Users\\luong\\OneDrive - tican1502\\project\\w\\asp-website-sales\\Project-Web-Sales\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\luong\\AppData\\Roaming\\NuGet\\NuGet.Config",

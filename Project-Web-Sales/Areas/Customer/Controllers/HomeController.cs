@@ -26,9 +26,10 @@ namespace Project_Web_Sales.Areas.Customer.Controllers
         {
             return View();
         }
-        public IActionResult Detail()
+        public IActionResult Detail(int id)
         {
-            return View();
+            SanPham sanpham = _db.SanPham.Include("TheLoai").FirstOrDefault(item => item.Id == id);
+            return View(sanpham);
         }
         public IActionResult Cart()
         {
