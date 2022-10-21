@@ -27,11 +27,11 @@
                     <div class="navbar-nav mr-auto py-0">
                         <a asp-area="" asp-controller="Home" asp-action="Index" class="nav-item nav-link">Home</a>
                         <a asp-area="" asp-controller="Home" asp-action="Shop" class="nav-item nav-link active">Shop</a>
-                        <a asp-area="" asp-controller="Home" asp-action="Detail" class="nav-item nav-link">Shop Detail</a>
+                        @*<a asp-area="" asp-controller="Home" asp-action="Detail" class="nav-item nav-link">Shop Detail</a>*@
                         <div class="nav-item dropdown">
                             <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown">Pages</a>
                             <div class="dropdown-menu rounded-0 m-0">
-                                <a asp-area="" asp-controller="Home" asp-action="Cart" class="dropdown-item">Shopping Cart</a>
+                                <a asp-area="Customer" asp-controller="GioHang" asp-action="Index" class="dropdown-item">Shopping Cart</a>
                                 <a asp-area="" asp-controller="Home" asp-action="Checkout" class="dropdown-item">Checkout</a>
                             </div>
                         </div>
