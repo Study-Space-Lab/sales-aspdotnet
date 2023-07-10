@@ -1,0 +1,3 @@
+# asp-website-sales - là project nhỏ trong môn học lập trình web ASP.NET
+
+Website lấy mẫu bootstrap và được code các chức năng như: đăng nhập, đăng kí, giỏ hàng, thanh toán... 
